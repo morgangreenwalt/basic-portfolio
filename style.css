@@ -1,0 +1,42 @@
+#nav {
+	margin-bottom: 20px;
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+
+#logo {
+	float: left;
+	font-size: 24px;
+	background-color: blue;
+}
+
+#main-nav {
+	float: right;
+}
+
+li {
+	list-style-type: none;
+	margin-right: 10px;
+	padding-right: 20px;
+	display: inline;
+	border-right: .5px solid #000;
+}
+
+.about {
+	width: 70%;
+	margin: 0 auto;
+	float: left;
+}
+
+.connect {
+	width: 30%;
+	margin: 0 auto;
+	float: left;
+}
+
+.portfolio-row {
+	width: 50%;
+	margin: 0 auto;
+	float: left;
+	height: 300px;
+}
